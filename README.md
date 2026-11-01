@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # KarierPath AI - Enterprise RAG & Career Consultant Platform
 
 Aplikasi web konsultan karier dan audit kesiapan dokumen kerja berbasis AI yang dirancang secara profesional untuk mahasiswa dan *fresh graduate*. Aplikasi ini mengimplementasikan arsitektur modular yang memisahkan **Frontend (Presentation Layer)** dan **Backend/Core Logic (RAG, Domain Analytics, LLM Adapters, Document Ingestion)** secara tegas dan terstruktur.
@@ -121,3 +122,6 @@ npm.cmd run dev
 npm.cmd run build
 ```
 Akses di browser: **http://localhost:3000/**
+=======
+# TalentLens-Pro-Konsultan-karier-CV-berbasis-AI
+>>>>>>> 88eecc37d38dc1c54c95b09d64c76c954169fcba
