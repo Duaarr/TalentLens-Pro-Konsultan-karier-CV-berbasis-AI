@@ -119,8 +119,3 @@ npm.cmd run dev
 
 # Membangun versi produksi
 npm.cmd run build
-```
-Akses di browser: **http://localhost:3000/**
-=======
-# TalentLens-Pro-Konsultan-karier-CV-berbasis-AI
->>>>>>> 88eecc37d38dc1c54c95b09d64c76c954169fcba
