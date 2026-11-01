@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # KarierPath AI - Enterprise RAG & Career Consultant Platform
 
 Aplikasi web konsultan karier dan audit kesiapan dokumen kerja berbasis AI yang dirancang secara profesional untuk mahasiswa dan *fresh graduate*. Aplikasi ini mengimplementasikan arsitektur modular yang memisahkan **Frontend (Presentation Layer)** dan **Backend/Core Logic (RAG, Domain Analytics, LLM Adapters, Document Ingestion)** secara tegas dan terstruktur.
